@@ -1,0 +1,12 @@
+{
+  "name": "ai-hedge-fund",
+  "version": "1.0.0",
+  "description": "AI Hedge Fund System",
+  "scripts": {
+    "start": "cd server && npm start",
+    "dev": "cd server && npm run dev",
+    "install-all": "npm install && cd server && npm install"
+  },
+  "author": "Erfan Ahmadvand",
+  "license": "UNLICENSED"
+} 
